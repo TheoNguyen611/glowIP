@@ -1,0 +1,11 @@
+{
+    "K": 18,
+    "L": 4,
+    "batchsize": 6,
+    "coupling": "affine",
+    "last_zeros": true,
+    "lr": 0.0001,
+    "n_bits_x": 5,
+    "size": 64,
+    "warmup_iter": 10000
+}
